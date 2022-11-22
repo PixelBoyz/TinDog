@@ -1,0 +1,17 @@
+.left {
+  text-align: left;
+}
+
+.space {
+  margin-right: 10px;
+}
+
+.ms {
+  margin: 0 auto;
+  display: inline;
+  width: auto;
+}
+
+.me {
+  width: 45rem;
+}
